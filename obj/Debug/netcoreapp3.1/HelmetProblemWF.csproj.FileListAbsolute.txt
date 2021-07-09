@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.exe
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.deps.json
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.runtimeconfig.json
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.runtimeconfig.dev.json
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.dll
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\bin\Debug\netcoreapp3.1\HelmetProblemWF.pdb
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.csprojAssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.Form1.resources
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.csproj.GenerateResource.cache
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.dll
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.pdb
+C:\Users\phili\OneDrive\Desktop\Projects\Programming\C# Files\HelmetProblemWF\obj\Debug\netcoreapp3.1\HelmetProblemWF.genruntimeconfig.cache
